@@ -3,3 +3,6 @@ tensorflow
 numpy
 pillow
 matplotlib
+efficientnet
+scikit-learn
+grad-cam
