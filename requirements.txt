@@ -1,8 +1,7 @@
 streamlit
-tensorflow
+tensorflow==2.12.0
+Pillow
 numpy
-pillow
 matplotlib
-efficientnet
 scikit-learn
-grad-cam
+opencv-python
