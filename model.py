@@ -5,6 +5,8 @@ from PIL import Image
 
 
 model = load_model("final_model.h5")
+print("✅ Model loaded")
+
 
 def preprocess_image(image, target_size=(224, 224)):
     image = image.convert("RGB")  
